@@ -1,0 +1,24 @@
+Arithmetic Operators
+
+a=int(input())
+b=int(input())
+print(a+b)
+print(a-b)
+print(a*b)
+print(a/b)
+print(a//b)
+print(a%b)
+
+
+Sqaure Root
+
+a=int(input())
+b=a*a
+print(b)
+
+
+Cube Root
+
+a=int(input())
+b=a*a*a
+print(b)
